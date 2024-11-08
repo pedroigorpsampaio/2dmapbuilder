@@ -16,3 +16,10 @@ No headaches for using the generated map in your games!
 # Wiki
 
 [https://bitbucket.org/KikoSampaio/2dmapbuilder/wiki/Home](https://bitbucket.org/KikoSampaio/2dmapbuilder/wiki/Home)
+
+# Screenshots
+
+![teaser](https://pedroigorpsampaio.github.io/src/img/2dmb/media_2dmb0.png)
+
+![teaser](https://pedroigorpsampaio.github.io/src/img/2dmb/media_2dmb2.png)
+
