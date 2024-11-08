@@ -12,3 +12,7 @@ In order to give you more control, 2DMapBuilder provides a state mechanism that 
 
 To facilitate the parsing of the created map file, 2DMapBuilder's own file extension .m2d was projected using XML notation and uses a simple formatting for the map data.
 No headaches for using the generated map in your games!
+
+# Wiki
+
+[https://bitbucket.org/KikoSampaio/2dmapbuilder/wiki/Home](https://bitbucket.org/KikoSampaio/2dmapbuilder/wiki/Home)
